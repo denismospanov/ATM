@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Simple ATM application built with React. Learning outcomes are to use containers and tracking state. 
+Simple ATM application built with React. Learning outcomes are to employ components, and tracking state. 
 
 ## How to Run
 
