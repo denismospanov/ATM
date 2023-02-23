@@ -14,7 +14,7 @@ Simple ATM application built with React. Learning outcomes are to employ compone
 
 - Deposit cash to account 
 - Withdraw cash from account
-- Keepiing track of account balance using React useState
+- Keeping track of account balance using React useState
 - Prevents invalid transactions
 
 ## Latest Improvements 
